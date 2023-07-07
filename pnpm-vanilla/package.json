@@ -1,0 +1,12 @@
+{
+  "name": "@zepln/monorepo-pnpm-vanilla",
+  "version": "1.0.0",
+  "description": "Monorepo example with pnpm.",
+  "main": "index.js",
+  "scripts": {
+    "clean": "rm -rf node_modules core/node_modules cli/node_modules"
+  },
+  "keywords": [],
+  "author": "Ethan Brown <e@zepln.com>",
+  "license": "(MIT OR GPL-3.0)"
+}
